@@ -13,47 +13,114 @@
 
 ---
 
-I am a plant stress physiologist and horticultural scientist with research experience in specialty crop production, sustainable agriculture, crop physiology, and R-based data analysis.
+## Professional focus
 
-My work focuses on understanding how crops respond to environmental and management stresses, including flooding, heat, drought, salinity, nutrient management, organic amendments, grafting, and protected cultivation systems. I use physiological measurements, yield and quality traits, spectral indices, and statistical modeling to generate practical insights for crop improvement and sustainable production.
+I am a plant stress physiologist and horticultural scientist with experience in specialty crop production, abiotic stress physiology, organic and sustainable production systems, grafting, nitrogen-use efficiency, plant phenotyping, and R-based data analysis.
 
-## 🔬 Research Interests
+My work integrates field, greenhouse, and controlled-environment experiments with physiological measurements, yield and quality assessment, spectral traits, phytohormonal data, and statistical modeling.
 
-- **Plant stress physiology & Specialty crop production**
-- **Organic and sustainable horticulture**
-- **Cropping systems:** Strawberry, watermelon, soybean, corn, and vegetable crops
-- **Abiotic Stresses:** Heat, drought, flooding, salinity, and nutrient stress
-- **Agronomic Practices:** Grafting, nitrogen-use efficiency, and soil health
-- **Technology:** Remote sensing, spectral traits, plant phenotyping
-- **Data Science:** R-based statistical analysis and data visualization
+## Core expertise
 
-## 💻 Technical Skills
+### Plant stress physiology
 
-| Category | Skills |
-|---|---|
-| ** Analysis** | R, RStudio, Excel, SigmaPlot |
-| **R Packages** | `ggplot2`, `lme4`, `lmerTest`, `emmeans`, `multcomp`, `openxlsx`, `tidyverse` |
-| **Statistical Methods** | ANOVA, mixed models, post-hoc comparisons, regression, correlation, multivariate analysis |
-| **Physiology Tools** | LI-COR 6800, LI-COR 600, MPM-100, chlorophyll fluorescence, gas exchange, spectral indices |
-| **Research Outputs** | Manuscript writing, data visualization, experimental design, scientific presentation |
+- Heat stress
+- Drought stress
+- Flooding and waterlogging stress
+- Salinity stress
+- Chilling stress
+- Combined abiotic stress responses
+- Crop tolerance and susceptibility mechanisms
 
-## 🚀 Featured Project Areas
+### Specialty crop production
 
-- **Crop physiology and stress tolerance:** Analysis workflows for evaluating crop responses to abiotic stress using physiological, agronomic, spectral, and biochemical traits.
-- **Organic strawberry production:** Research focused on anaerobic soil disinfestation, organic amendments, yield, fruit quality, physiology, and sustainable production systems.
-- **Grafted watermelon and nitrogen management:** Data analysis related to grafting, fertilizer source, nitrogen-use efficiency, yield performance, and fruit quality.
-- **R workflows for agricultural research:** Reusable R scripts for mixed-model analysis, estimated marginal means, compact letter displays, and publication-quality figures.
+- Strawberry
+- Watermelon
+- Tomato
+- Lettuce
+- Soybean
+- Corn
+- Vegetable crops
+- Organic and protected cultivation systems
 
-## 📁 What You Will Find Here
+### Sustainable and organic systems
 
-This GitHub profile includes organized repositories for:
-- R scripts for crop physiology experiments
-- Data visualization templates for plant science research
-- Example workflows for mixed-model analysis
-- Research project documentation
-- Reproducible analysis pipelines for horticultural studies
+- Anaerobic soil disinfestation
+- Organic amendments
+- Cover crops
+- Soil health
+- Nitrogen management
+- Grafting and rootstock evaluation
+- Fertilizer-use and nitrogen-use efficiency
 
-## 📫 Connect with me
+### Crop physiology and phenotyping
+
+- Photosynthesis
+- Stomatal conductance
+- Transpiration
+- Chlorophyll fluorescence
+- Chlorophyll content
+- Canopy temperature
+- Biomass partitioning
+- Yield and fruit quality
+- Spectral indices and remote sensing traits
+
+### Instrumentation experience
+
+- LI-COR 6800 portable photosynthesis system
+- LI-COR 600 porometer/fluorometer
+- MPM-100 multi-pigment meter
+- Chlorophyll meters
+- Spectral reflectance measurements
+- Petiole sap and plant tissue nutrient interpretation
+- Fruit quality and postharvest measurements
+
+### Data analysis and visualization
+
+- R and RStudio
+- Mixed models
+- ANOVA
+- Post-hoc mean separation
+- Regression analysis
+- Correlation analysis
+- Principal component analysis
+- Multivariate analysis
+- Publication-quality figures
+- Excel-based data organization and reporting
+
+## Research project themes
+
+### Organic strawberry production
+
+Research involving anaerobic soil disinfestation, organic amendments, cultivar performance, yield, quality, physiology, soil health, and sustainable strawberry systems.
+
+### Grafted watermelon and nitrogen management
+
+Evaluation of grafting, fertilizer sources, nitrogen rates, yield performance, fruit quality, and nitrogen-use efficiency in watermelon production systems.
+
+### Crop response to abiotic stress
+
+Physiological, biochemical, spectral, and agronomic responses of crops under heat, drought, flooding, salinity, chilling, and combined stress conditions.
+
+### Sensor-based plant phenotyping
+
+Use of physiological instruments and spectral traits to quantify plant responses and identify stress tolerance mechanisms.
+
+### Research communication
+
+Scientific writing, manuscript development, conference abstracts, extension-style summaries, stakeholder presentations, and data-driven interpretation.
+
+## Repository organization
+
+```text
+plant-science-research-portfolio/
+├── README.md
+├── protocols/
+├── crop-systems/
+├── phenotyping/
+├── data-analysis/
+├── presentations/
+├── manuscripts/
+└── extension-communication/
 
 ## 📄 Curriculum Vitae
 
