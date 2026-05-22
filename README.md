@@ -55,6 +55,18 @@ This GitHub profile includes organized repositories for:
 
 ## 📫 Connect with me
 
+## 📄 Curriculum Vitae
+
+Interested in my full professional background, publications, and conference presentations?
+
+<a href="CV.pdf">
+  <img src="https://img.shields.io/badge/Download_My_CV-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
+</a>
+
+*(Note: To make this link work, just upload a file named `CV.pdf` to this repository!)*
+
+## 📫 Connect with me
+
 - **GitHub:** [@bikashadhikari8](https://github.com/bikashadhikari8)
 - **Email:** [bikashadhikari8@gmail.com](mailto:bikashadhikari8@gmail.com)
 
