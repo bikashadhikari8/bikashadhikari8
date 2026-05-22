@@ -109,18 +109,6 @@ Use of physiological instruments and spectral traits to quantify plant responses
 
 Scientific writing, manuscript development, conference abstracts, extension-style summaries, stakeholder presentations, and data-driven interpretation.
 
-## Repository organization
-
-```text
-plant-science-research-portfolio/
-├── README.md
-├── protocols/
-├── crop-systems/
-├── phenotyping/
-├── data-analysis/
-├── presentations/
-├── manuscripts/
-└── extension-communication/
 
 ## 📄 Curriculum Vitae
 
